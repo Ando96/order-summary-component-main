@@ -31,6 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Ando96/order-summary-component-main
+- Live site URL : https://ando96.github.io/order-summary-component-main/
 
 ## My process
 
